@@ -1,3 +1,13 @@
+:root {
+  --background: #1D0B15;
+  --secondaryBackground: #265440;
+  --thirdBackground: #7D75A9;
+  --thirdAccent: #9137A9;
+  --accent: #A83FF3;
+  --secondaryAccent: #39F9C3;
+  --textColor: #EDFDF8; 
+}
+
 .App {
   text-align: center;
 }
