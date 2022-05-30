@@ -31,7 +31,7 @@ function App() {
   return (
     <>
     <div className="App">
-      <Header currentPage={currentPage} setCurrentPage={setCurrentPage} />
+      <Header />
       <main>{renderPage()}</main>
       <Footer />
     </div>

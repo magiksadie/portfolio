@@ -5,7 +5,6 @@ import Header from "../components/Header";
 function Home(props) {
     return (
         <div className="home-page">
-            <Header currentPage={props.currentPage} setCurrentPage={props.setCurrentPage} />
             <div className="home-page-content">
                 <h1>Hello, I'm Sadie.</h1>
                 <p>
