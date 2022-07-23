@@ -12,7 +12,7 @@ Welcome to my personal portfolio. This showcases projects, my resume, and a litt
 
 No need to pull code! Simply click the heroku link.
 
-## Link
+## Project Portfolio Link
 
 [UNDER MAINTENANCE](https://pure-lake-62631.herokuapp.com/)
 ## License 
