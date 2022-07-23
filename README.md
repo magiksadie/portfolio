@@ -4,7 +4,7 @@ Welcome to my personal portfolio. This showcases projects, my resume, and a litt
 
 ## Table of Contents
 * [Installation](#installation-and-usage)
-* [Link](#link)
+* [Project Portfolio](# Project-Portfolio)
 * [License](#license)
 * [Questions](#questions)
 
