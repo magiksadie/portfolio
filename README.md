@@ -2,16 +2,6 @@
 
 Welcome to my personal portfolio. This showcases projects, my resume, and a little bit about me as well as socials. Enjoy, and thank you for taking your time to look! :)
 
-## Table of Contents
-* [Installation](#installation-and-usage)
-* [Project Portfolio](#Project-Portfolio)
-* [License](#license)
-* [Questions](#questions)
-
-## Installation and Usage
-
-No need to pull code! Simply click the heroku link.
-
 ## Project Portfolio
 
 [UNDER MAINTENANCE](https://pure-lake-62631.herokuapp.com/)
