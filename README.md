@@ -14,7 +14,7 @@ No need to pull code! Simply click the heroku link.
 
 ## Link
 
-[UNDER CONSTRUCTION](https://pure-lake-62631.herokuapp.com/)
+[UNDER MAINTENANCE](https://pure-lake-62631.herokuapp.com/)
 ## License 
 
 MIT
