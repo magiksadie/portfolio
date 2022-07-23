@@ -5,6 +5,17 @@ Welcome to my personal portfolio. This showcases projects, my resume, and a litt
 ## Project Portfolio
 
 [UNDER MAINTENANCE](https://pure-lake-62631.herokuapp.com/)
+
+## Questions
+
+### GitHub Profile
+
+https://github.com/magiksadie
+
+### Email
+
+sadiejo.h01@gmail.com
+
 ## License 
 
 MIT
@@ -19,14 +30,3 @@ https://opensource.org/licenses/MIT
       The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
       
       THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
-
-
-## Questions
-
-### GitHub Profile
-
-https://github.com/magiksadie
-
-### Email
-
-sadiejo.h01@gmail.com
